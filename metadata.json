@@ -1,0 +1,6 @@
+{
+  "name": "ScanPro PDF",
+  "description": "Offline-first document scanner, Bengali & English OCR, PDF editor, digital signature, and encrypted export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
